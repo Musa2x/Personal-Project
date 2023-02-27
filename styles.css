@@ -8,7 +8,9 @@
 .item3,
 .item4,
 .item5,
-.item6 {
+.item6,
+.item7,
+.item8 {
 	box-shadow: 3px 3px 5px rgba(123, 0, 160, 0.24);
 	width: 16rem;
 	margin: 3%;
