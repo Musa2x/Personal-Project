@@ -11,7 +11,16 @@
 .item6,
 .item7,
 .item8,
-.item9 {
+.item9,
+.item10,
+.item11,
+.item12,
+.item13,
+.item14,
+.item15,
+.item16,
+.item17,
+.item18 {
 	box-shadow: 3px 3px 5px rgba(123, 0, 160, 0.24);
 	width: 16rem;
 	margin: 3%;
@@ -31,7 +40,16 @@
 .item6,
 .item7,
 .item8,
-.item9 > h5 {
+.item9,
+.item10,
+.item11,
+.item12,
+.item13,
+.item14,
+.item15,
+.item16,
+.item17,
+.item18 > h5 {
 	text-align: center;
 }
 
@@ -94,6 +112,15 @@ h5 {
 .item6 img,
 .item7 img,
 .item8 img,
-.item9 img {
+.item9 img,
+.item10 img,
+.item11 img,
+.item12 img,
+.item13 img,
+.item14 img,
+.item15 img,
+.item16 img,
+.item17 img,
+.item18 img {
 	border: 1px solid rgb(83, 14, 83);
 }
