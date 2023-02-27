@@ -10,7 +10,8 @@
 .item5,
 .item6,
 .item7,
-.item8 {
+.item8,
+.item9 {
 	box-shadow: 3px 3px 5px rgba(123, 0, 160, 0.24);
 	width: 16rem;
 	margin: 3%;
@@ -27,7 +28,10 @@
 .item3,
 .item4,
 .item5,
-.item6 > h5 {
+.item6,
+.item7,
+.item8,
+.item9 > h5 {
 	text-align: center;
 }
 
@@ -87,6 +91,9 @@ h5 {
 .item3 img,
 .item4 img,
 .item5 img,
-.item6 img {
+.item6 img,
+.item7 img,
+.item8 img,
+.item9 img {
 	border: 1px solid rgb(83, 14, 83);
 }
